@@ -16,6 +16,8 @@ Mopidy-Raspberry-GPIO
 
 Mopidy extension for GPIO input on a Raspberry Pi
 
+--- Sept 2020
+--- Branched out to try to implement rotary-encoder support for volume control...
 
 Installation
 ============
